@@ -37,4 +37,4 @@ spec:
             - name: LOCUST_MASTER
               value: locust-master
             - name: TARGET_HOST
-              value: https://[TARGET_HOST]
+              value: https://makeprojects-qa.stagepb.com

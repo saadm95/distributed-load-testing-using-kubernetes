@@ -36,7 +36,7 @@ spec:
             - name: LOCUST_MODE
               value: master
             - name: TARGET_HOST
-              value: https://[TARGET_HOST]
+              value: https://makeprojects-qa.stagepb.com
           ports:
             - name: loc-master-web
               containerPort: 8089
